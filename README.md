@@ -23,7 +23,7 @@
 
 * `git clone https://github.com/shahariar001M/dragon-sms-bomb.git`
 
-* `cd dragon-sms-bomb.`
+* `cd dragon-sms-bomb`
 
 * `python dragon-sms-bomb.py`
 
