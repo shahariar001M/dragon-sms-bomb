@@ -25,7 +25,7 @@
 
 * `cd dragon-sms-bomb.`
 
-* `python dragon-sms-bomb..py`
+* `python dragon-sms-bomb.py`
 
 
 ___This Tool is Free Enjoy Dear User. Don't use it for illegal work. It just only for fun.___</br>
